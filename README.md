@@ -1,8 +1,8 @@
 <h1 align="center">Hi there 👋! I'm Diana González</h1>
 <h3>About me</h3>
-<h5>🎓 Computing Administrative student @UAEMEX</h5>
-<h5>🏅 Alpha Microsoft Learn Student Ambassador</h5>
-<h5>👩‍💻 IBM Student Advocate</h5>
+<h4>🎓 Computing Administrative student @UAEMEX</h4>
+<h4>🏅 Alpha Microsoft Learn Student Ambassador</h4>
+<h4>👩‍💻 IBM Student Advocate</h4>
 
 <br>
 <p>Interest: 📱Mobile Development, 💻Web Development and 🛡️Cybersecurity</p><br>
