@@ -4,7 +4,8 @@
 <h5>🏅 Alpha Microsoft Learn Student Ambassador</h5>
 <h5>👩‍💻 IBM Student Advocate</h5>
 
-Interest: 📱Mobile Development, 💻Web Development and 🛡️Cybersecurity
+<br>
+<p>Interest: 📱Mobile Development, 💻Web Development and 🛡️Cybersecurity</p><br>
 
 - 🔭 I’m currently working on **personal projects**
 
