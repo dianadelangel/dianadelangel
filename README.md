@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋! I'm Diana González</h1>
 <h3>About me</h3>
 <h4>🎓 Computing Administrative student @UAEMEX</h4>
-<p aling="left"><img ="[https://studentambassadors.microsoft.com/Assets/Badge/LevelAlpha.png](https://camo.githubusercontent.com/b396fda3c50ba27ff9d72f78fb99d140121b852f3fafb617820f345c0539fbee/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f4c724d427875564b714448434f4a373966502f67697068792e6769663f6369643d6563663035653437776a727930743736686f306c77707171726d67786a6269677366627639356a38756d386873766877267269643d67697068792e6769662663743d73)">
+<p aling="left"><img ="https://studentambassadors.microsoft.com/Assets/Badge/LevelAlpha.png">
 <h4>🏅 Alpha Microsoft Learn Student Ambassador</h4>
 <h4>👩‍💻 IBM Student Advocate</h4>
 
