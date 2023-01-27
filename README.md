@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋! I'm Diana González</h1>
-<h3 align="center">🎓 Computing Administrative Student @UAEMEX</h3>
+<h3>About me</h3>
 
 - 🔭 I’m currently working on **personal projects**
 
