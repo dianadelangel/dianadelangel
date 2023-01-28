@@ -3,7 +3,7 @@
 <h4>🎓 Computing Administrative student @UAEMEX</h4>
 <h4>🏅 Alpha Microsoft Learn Student Ambassador</h4>
 <h4>👩‍💻 IBM Student Advocate</h4>
-<img src="https://studentambassadors.microsoft.com/Assets/Badge/LevelAlpha.png" aling="center" width="50" height="50"> 
+<p aling="center"><img src="https://studentambassadors.microsoft.com/Assets/Badge/LevelAlpha.png" width="50" height="50"> 
 
 <br>
 <p>Interest: 📱Mobile Development, 💻Web Development and 🛡️Cybersecurity</p><br>
